@@ -15,3 +15,6 @@ Your particle system should be the "Sub Emitter" in this case.<br>
 4.) Make your own particle system not "Play on Awake"<br>
 5.) Set your particle system's emission to be 0 on both Rate over Time, and on Rate over Distance<br>
 6.) Add a burst to your particle system
+<br><h2>
+ 
+ [Download here](https://github.com/fkrisi11/Buffer-Particle-System/releases/latest)</h2>
